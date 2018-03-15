@@ -1,5 +1,11 @@
 # TTIC31230 Fundamental of Deep Learning
 
+Winter, 2018
+
+Prof. David McAllester
+
+Introduction to fundamental principles of deep learning. Although deep learning systems are evolving rapidly, this course attempts to teach material that will remain relevant and useful as the field changes. The course will emphasize theoretical and intuitive understanding to the extent possible.
+
 ## Lecture Notes
 1. Course Overview
 2. MLP
