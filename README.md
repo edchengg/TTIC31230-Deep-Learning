@@ -30,8 +30,12 @@ Midterm preparation notes and solution of midterm
 
 ## Homework
 Problem Set 2: [ResNet bottleneck block](https://github.com/edchengg/ResNet10_pytorch)
+
 Solution of problem set 4
+
 Final Project:
+
 [Adaptive Softmax LSTM for LM](https://github.com/edchengg/PTB-LSTM-LanguageModelling)
+
 [Attention LSTM for LM](https://github.com/edchengg/PTB-pytorch-LSTM-attention)
 
